@@ -1,0 +1,20 @@
+
+.box p {
+    background-color: rgb(255, 174, 183);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#id-2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#id-4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
